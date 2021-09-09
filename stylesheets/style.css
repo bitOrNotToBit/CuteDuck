@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    outline:none;
+    border:0;
+    margin:0;
+    padding:0;
+}
+body{
+    background-image: linear-gradient(to right, rgb(50, 39, 92), rgb(23, 28, 71));
+    display: flex;
+    justify-content: center;
+    height:720px;
+    align-items: center;
+}
